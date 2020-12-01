@@ -19,13 +19,6 @@ namespace Map_coloring_CSP
 
         private void button2_Click(object sender, EventArgs e)
         {
-            //pictureBox1 = red
-            //p2 =green
-            //p3 = red
-            //p4 = blue
-            //p5 = green
-            //pictureBox6 = red 
-            //1=2,4 , 2 = 1,3,4, 
             try
             {
                 if(textBox1.Text != "" && textBox2.Text != "" && textBox3.Text != "")
@@ -89,7 +82,7 @@ namespace Map_coloring_CSP
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Integer values for V1 must be greater than V2 & V3 mustn't be equal to V1 and V2", "Algorithm conditions for CSP", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("Integer values for V1 must be greater than V2 & V3 mustn't be equal to V1 and V2.", "Algorithm conditions for CSP", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
     }
 }
