@@ -1,0 +1,10 @@
+C:\Users\TAHMID RADIT\Source\Repos\tahmidradit\Map-Coloring-Algorithm-for-CSP\Map coloring CSP\bin\Debug\Map coloring CSP.exe.config
+C:\Users\TAHMID RADIT\Source\Repos\tahmidradit\Map-Coloring-Algorithm-for-CSP\Map coloring CSP\bin\Debug\Map coloring CSP.exe
+C:\Users\TAHMID RADIT\Source\Repos\tahmidradit\Map-Coloring-Algorithm-for-CSP\Map coloring CSP\bin\Debug\Map coloring CSP.pdb
+C:\Users\TAHMID RADIT\Source\Repos\tahmidradit\Map-Coloring-Algorithm-for-CSP\Map coloring CSP\obj\Debug\Map coloring CSP.csprojAssemblyReference.cache
+C:\Users\TAHMID RADIT\Source\Repos\tahmidradit\Map-Coloring-Algorithm-for-CSP\Map coloring CSP\obj\Debug\Map_coloring_CSP.Form1.resources
+C:\Users\TAHMID RADIT\Source\Repos\tahmidradit\Map-Coloring-Algorithm-for-CSP\Map coloring CSP\obj\Debug\Map_coloring_CSP.Properties.Resources.resources
+C:\Users\TAHMID RADIT\Source\Repos\tahmidradit\Map-Coloring-Algorithm-for-CSP\Map coloring CSP\obj\Debug\Map coloring CSP.csproj.GenerateResource.cache
+C:\Users\TAHMID RADIT\Source\Repos\tahmidradit\Map-Coloring-Algorithm-for-CSP\Map coloring CSP\obj\Debug\Map coloring CSP.csproj.CoreCompileInputs.cache
+C:\Users\TAHMID RADIT\Source\Repos\tahmidradit\Map-Coloring-Algorithm-for-CSP\Map coloring CSP\obj\Debug\Map coloring CSP.exe
+C:\Users\TAHMID RADIT\Source\Repos\tahmidradit\Map-Coloring-Algorithm-for-CSP\Map coloring CSP\obj\Debug\Map coloring CSP.pdb
